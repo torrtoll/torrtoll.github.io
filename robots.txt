@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.torrtoll.com/sitemap.xml
